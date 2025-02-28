@@ -1,0 +1,1 @@
+console.log("Arena Breakout Cheat is active!");
